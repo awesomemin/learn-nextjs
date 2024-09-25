@@ -1,0 +1,8 @@
+/node_modules
+/.next/
+/out/
+/build
+/coverage
+/.pnp
+.pnp.js
+.yarn/install-state.gz
